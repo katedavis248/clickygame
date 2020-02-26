@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "image": "../../images/arya.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/bran.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/brienne.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/cersei.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/daeny.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/jaime.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/jon.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/sansa.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/theon.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/tormund.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/tyrion.png",
+        "clicked": false
+    }
+]
