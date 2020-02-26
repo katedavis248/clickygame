@@ -5,6 +5,16 @@ import Container from "../Container";
 import ClickItem from "../ClickItem";
 import Footer from "../Footer";
 import arya from "../../images/arya.png"
+import bran from "../../images/bran.png"
+import brienne from "../../images/brienne.png"
+import cersei from "../../images/cersei.png"
+import daeny from "../../images/daeny.png"
+import jaime from "../../images/jaime.png"
+import jon from "../../images/jon.png"
+import sansa from "../../images/sansa.png"
+import theon from "../../images/theon.png"
+import tormund from "../../images/tormund.png"
+import tyrion from "../../images/tyrion.png"
 
 // import data from "../../data.json";
 
@@ -15,52 +25,52 @@ const data = [{
 },
 {
     "id": 2,
-    "image": "/assets/images/bran.png",
+    "image": bran,
     "clicked": false
 },
 {
     "id": 3,
-    "image": "/assets/images/brienne.png",
+    "image": brienne,
     "clicked": false
 },
 {
     "id": 4,
-    "image": "/assets/images/cersei.png",
+    "image": cersei,
     "clicked": false
 },
 {
     "id": 5,
-    "image": "/assets/images/daeny.png",
+    "image": daeny,
     "clicked": false
 },
 {
     "id": 6,
-    "image": "/assets/images/jaime.png",
+    "image": jaime,
     "clicked": false
 },
 {
     "id": 7,
-    "image": "/assets/images/jon.png",
+    "image": jon,
     "clicked": false
 },
 {
     "id": 8,
-    "image": "/assets/images/sansa.png",
+    "image": sansa,
     "clicked": false
 },
 {
     "id": 9,
-    "image": "/assets/images/theon.png",
+    "image": theon,
     "clicked": false
 },
 {
     "id": 10,
-    "image": "/assets/images/tormund.png",
+    "image": tormund,
     "clicked": false
 },
 {
     "id": 11,
-    "image": "/assets/images/tyrion.png",
+    "image": tyrion,
     "clicked": false
 }
 ];
