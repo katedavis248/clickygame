@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/clickygame/static/css/main.684169fe.chunk.css",
+    "main.js": "/clickygame/static/js/main.28335b94.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.28335b94.chunk.js.map",
+    "runtime-main.js": "/clickygame/static/js/runtime-main.9a0c2231.js",
+    "runtime-main.js.map": "/clickygame/static/js/runtime-main.9a0c2231.js.map",
+    "static/js/2.cb30382c.chunk.js": "/clickygame/static/js/2.cb30382c.chunk.js",
+    "static/js/2.cb30382c.chunk.js.map": "/clickygame/static/js/2.cb30382c.chunk.js.map",
+    "index.html": "/clickygame/index.html",
+    "precache-manifest.c9cc60758c660a6da1f831d8e61f3a71.js": "/clickygame/precache-manifest.c9cc60758c660a6da1f831d8e61f3a71.js",
+    "service-worker.js": "/clickygame/service-worker.js",
+    "static/css/main.684169fe.chunk.css.map": "/clickygame/static/css/main.684169fe.chunk.css.map",
+    "static/js/2.cb30382c.chunk.js.LICENSE.txt": "/clickygame/static/js/2.cb30382c.chunk.js.LICENSE.txt",
+    "static/media/arya.png": "/clickygame/static/media/arya.b73e94bf.png",
+    "static/media/bran.png": "/clickygame/static/media/bran.d7dfed81.png",
+    "static/media/brienne.png": "/clickygame/static/media/brienne.4eeed792.png",
+    "static/media/cersei.png": "/clickygame/static/media/cersei.cfb1c500.png",
+    "static/media/daeny.png": "/clickygame/static/media/daeny.4feb96b3.png",
+    "static/media/jaime.png": "/clickygame/static/media/jaime.3270b2b2.png",
+    "static/media/jon.png": "/clickygame/static/media/jon.34dcdd88.png",
+    "static/media/sansa.png": "/clickygame/static/media/sansa.b64dca8d.png",
+    "static/media/theon.png": "/clickygame/static/media/theon.78e9a69b.png",
+    "static/media/tormund.png": "/clickygame/static/media/tormund.363a2b25.png",
+    "static/media/tyrion.png": "/clickygame/static/media/tyrion.73ffe97a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a0c2231.js",
+    "static/js/2.cb30382c.chunk.js",
+    "static/css/main.684169fe.chunk.css",
+    "static/js/main.28335b94.chunk.js"
+  ]
+}
